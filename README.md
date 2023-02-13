@@ -9,7 +9,7 @@ https://community.firecore.com/c/legacy/1st-gen-apple-tv/5
 
 Copyright © 2008-2015 Firecore, LLC. All rights reserved.
 
-**Release notes**
+## Release notes
 
 4.6 Feb-11-2015
 - All-new installer
